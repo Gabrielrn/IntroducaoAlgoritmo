@@ -1,1 +1,3 @@
-# 2 Exercícios da lista Introdução ao Algoritmo
+# Introdução aos Algoritmos
+
+Resolução de 2 exercícios da lista de Introdução aos Algoritmos
